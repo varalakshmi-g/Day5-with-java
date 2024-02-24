@@ -4,7 +4,7 @@ Hey all. Today is 5th day of my coding journey. Today i practiced one problem in
 
 In below program Scanner is used because values of n1 and n2 are not assigned inside the program, after execution, we will give the values for n1 and n2. 
 
-By using for loop, program will print all values withing a range only. 
+By using for loop, program will print all values withing some range only. 
 
 import java.util.Scanner;
 
